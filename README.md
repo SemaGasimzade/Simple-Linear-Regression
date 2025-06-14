@@ -7,7 +7,7 @@ The dataset contains two variables:
 - `YearsExperience`: Number of years the person has worked
 - `Salary`: Corresponding salary
 
-Source: `Salary_Data.csv`
+Source: (Salary_Data.csv)
 
 ## 🧮 Model Description
 
