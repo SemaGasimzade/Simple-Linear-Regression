@@ -37,3 +37,6 @@ The red dots represent the actual salaries, while the blue line is the predicted
    ```R
    install.packages("caTools")
    install.packages("ggplot2")
+
+You can view or download the full code here:  
+[[regression_model.R](https://github.com/YOUR_USERNAME/simple-linear-regression/blob/main/regression_model.R)](https://github.com/SemaGasimzade/Simple-Linear-Regression/blob/main/simple_linear_regression.R)
